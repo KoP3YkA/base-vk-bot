@@ -1,6 +1,3 @@
 export class Chat {
-    public constructor(
-        public readonly chatId: number
-    ) {}
-
+    public constructor(public readonly chatId: number) {}
 }

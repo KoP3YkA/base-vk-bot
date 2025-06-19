@@ -1,5 +1,3 @@
 export abstract class BaseExecutor {
-
-    public abstract execute(...args: unknown[]) : unknown;
-
+    public abstract execute(...args: unknown[]): unknown;
 }
