@@ -1,0 +1,16 @@
+.husky
+.idea
+node_modules
+test
+.eslintrc.js
+.gitignore
+.prettierrc
+docker-compose.yml
+Dockerfile
+LICENSE
+package.json
+package-lock.json
+README.md
+tsconfig.json
+tsup.config.ts
+jest.config.js
